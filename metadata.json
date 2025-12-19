@@ -1,0 +1,5 @@
+{
+  "name": "PWA Splash Preview",
+  "description": "A developer tool to visualize how a manifest.json and icon will appear as a splash screen on Android and iOS devices.",
+  "requestFramePermissions": []
+}
